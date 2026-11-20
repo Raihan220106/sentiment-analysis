@@ -1,0 +1,501 @@
+text,label,type
+"menurut saya, filmnya sama sekali tidak payah",1,negation
+alur ceritanya tidak menarik,0,negation
+"menurut saya, dialognya sangat jelek sih",0,plain
+"jujur, akting pemainnya seru dan tidak lambat",1,order
+"secara keseluruhan, musiknya cukup menghibur",1,plain
+"menurut saya, akting pemainnya sama sekali tidak lambat",1,negation
+"menurut saya, filmnya mengecewakan dan tidak menghibur",0,order
+"wah, film ini sama sekali tidak membosankan",1,negation
+"wah, endingnya sama sekali tidak menyentuh",0,negation
+"menurut saya, filmnya seru dan tidak jelek",1,order
+"menurut saya, akting pemainnya cukup hambar",0,plain
+"secara keseluruhan, endingnya hambar dan tidak menghibur",0,order
+"menurut saya, dialognya benar-benar buruk",0,plain
+"secara keseluruhan, akting pemainnya menyentuh dan tidak membosankan",1,order
+"wah, akting pemainnya cukup lambat",0,plain
+"jujur, endingnya benar-benar mengecewakan",0,plain
+"wah, ceritanya cukup payah",0,plain
+akting pemainnya payah sih,0,plain
+dialognya tidak seru,0,negation
+"jujur, efek visualnya menghibur dan tidak jelek",1,order
+"menurut saya, filmnya benar-benar garing",0,plain
+endingnya benar-benar buruk,0,plain
+"menurut saya, akting pemainnya sama sekali tidak bagus",0,negation
+"wah, musiknya cukup menarik sih",1,plain
+"menurut saya, filmnya tidak bagus",0,negation
+"secara keseluruhan, filmnya tidak buruk",1,negation
+"wah, alur ceritanya berantakan dan tidak keren",0,order
+"jujur, ceritanya keren dan tidak payah",1,order
+"secara keseluruhan, musiknya benar-benar memuaskan",1,plain
+"wah, endingnya mengecewakan dan tidak menghibur",0,order
+"wah, alur ceritanya benar-benar keren",1,plain
+ceritanya jelek dan tidak lucu,0,order
+"wah, dialognya menghibur dan tidak berantakan",1,order
+film ini keren dan tidak buruk,1,order
+"jujur, efek visualnya sangat buruk",0,plain
+"menurut saya, efek visualnya memuaskan dan tidak mengecewakan",1,order
+"secara keseluruhan, musiknya sama sekali tidak hambar",1,negation
+"secara keseluruhan, alur ceritanya sangat menyentuh",1,plain
+"wah, film ini tidak membosankan",1,negation
+"secara keseluruhan, efek visualnya benar-benar lambat",0,plain
+"jujur, film ini membosankan dan tidak bagus",0,order
+"secara keseluruhan, efek visualnya sama sekali tidak keren",0,negation
+"jujur, efek visualnya bagus",1,plain
+"wah, alur ceritanya sangat seru",1,plain
+musiknya tidak buruk,1,negation
+"menurut saya, efek visualnya sangat garing banget",0,plain
+"wah, akting pemainnya mengesankan dan tidak mengecewakan",1,order
+"wah, musiknya jelek",0,plain
+"secara keseluruhan, film ini sama sekali tidak menghibur",0,negation
+"secara keseluruhan, dialognya mengesankan dan tidak hambar",1,order
+efek visualnya keren dan tidak jelek,1,order
+"secara keseluruhan, ceritanya cukup seru banget",1,plain
+efek visualnya tidak bagus,0,negation
+"jujur, dialognya lambat dan tidak keren",0,order
+"menurut saya, musiknya tidak hambar",1,negation
+alur ceritanya benar-benar mengecewakan,0,plain
+"jujur, ceritanya cukup mengesankan banget",1,plain
+filmnya sangat keren banget,1,plain
+"secara keseluruhan, film ini membosankan dan tidak menghibur",0,order
+"wah, efek visualnya tidak memuaskan",0,negation
+"jujur, endingnya benar-benar menyentuh",1,plain
+"wah, ceritanya sama sekali tidak bagus",0,negation
+"secara keseluruhan, musiknya membosankan dan tidak memuaskan",0,order
+efek visualnya hambar dan tidak bagus,0,order
+"secara keseluruhan, akting pemainnya benar-benar bagus banget",1,plain
+"wah, filmnya sama sekali tidak menyentuh",0,negation
+"jujur, musiknya garing dan tidak memuaskan",0,order
+"menurut saya, ceritanya tidak membosankan",1,negation
+alur ceritanya sama sekali tidak menarik,0,negation
+"jujur, ceritanya tidak buruk",1,negation
+"wah, dialognya sama sekali tidak hambar",1,negation
+"menurut saya, akting pemainnya tidak garing",1,negation
+filmnya benar-benar memuaskan,1,plain
+"secara keseluruhan, film ini payah dan tidak mengesankan",0,order
+"secara keseluruhan, dialognya tidak menyentuh",0,negation
+"secara keseluruhan, dialognya lambat banget",0,plain
+dialognya tidak berantakan,1,negation
+"menurut saya, akting pemainnya tidak menarik",0,negation
+endingnya sama sekali tidak menghibur,0,negation
+"jujur, dialognya benar-benar membosankan banget",0,plain
+"secara keseluruhan, film ini cukup menarik",1,plain
+"wah, filmnya tidak membosankan",1,negation
+"wah, ceritanya sama sekali tidak berantakan",1,negation
+akting pemainnya sangat seru,1,plain
+akting pemainnya keren,1,plain
+"wah, musiknya cukup buruk banget",0,plain
+filmnya berantakan dan tidak keren,0,order
+filmnya lambat dan tidak menarik,0,order
+"wah, alur ceritanya sangat membosankan",0,plain
+"menurut saya, efek visualnya berantakan dan tidak menghibur",0,order
+"jujur, musiknya menghibur",1,plain
+"menurut saya, ceritanya benar-benar bagus",1,plain
+alur ceritanya tidak bagus,0,negation
+"jujur, efek visualnya tidak lucu",0,negation
+"wah, film ini sama sekali tidak keren",0,negation
+musiknya sangat membosankan,0,plain
+dialognya tidak lambat,1,negation
+"jujur, musiknya tidak payah",1,negation
+"wah, dialognya sama sekali tidak memuaskan",0,negation
+"jujur, musiknya menghibur dan tidak jelek",1,order
+"menurut saya, alur ceritanya lambat",0,plain
+"jujur, akting pemainnya lucu dan tidak jelek",1,order
+"jujur, dialognya sama sekali tidak hambar",1,negation
+akting pemainnya payah dan tidak lucu,0,order
+"jujur, akting pemainnya cukup lucu banget",1,plain
+"menurut saya, musiknya sama sekali tidak bagus",0,negation
+"secara keseluruhan, alur ceritanya sama sekali tidak jelek",1,negation
+"secara keseluruhan, film ini garing dan tidak bagus",0,order
+"menurut saya, efek visualnya sama sekali tidak membosankan",1,negation
+"secara keseluruhan, filmnya bagus sih",1,plain
+"menurut saya, dialognya tidak bagus",0,negation
+"wah, dialognya berantakan dan tidak mengesankan",0,order
+"wah, filmnya seru sih",1,plain
+endingnya tidak menghibur,0,negation
+"wah, efek visualnya tidak lambat",1,negation
+efek visualnya sama sekali tidak menarik,0,negation
+akting pemainnya sama sekali tidak garing,1,negation
+"secara keseluruhan, musiknya cukup mengecewakan",0,plain
+"secara keseluruhan, ceritanya tidak payah",1,negation
+"secara keseluruhan, dialognya bagus dan tidak payah",1,order
+"menurut saya, musiknya seru dan tidak garing",1,order
+"wah, ceritanya bagus dan tidak garing",1,order
+"menurut saya, alur ceritanya keren dan tidak garing",1,order
+"secara keseluruhan, dialognya payah",0,plain
+akting pemainnya cukup buruk sih,0,plain
+"secara keseluruhan, endingnya jelek",0,plain
+"secara keseluruhan, film ini menyentuh dan tidak berantakan",1,order
+"menurut saya, dialognya tidak seru",0,negation
+"secara keseluruhan, ceritanya mengecewakan dan tidak seru",0,order
+"menurut saya, film ini menarik banget",1,plain
+"secara keseluruhan, ceritanya benar-benar menyentuh",1,plain
+"jujur, filmnya cukup mengesankan",1,plain
+endingnya tidak garing,1,negation
+"wah, efek visualnya cukup mengesankan banget",1,plain
+"secara keseluruhan, dialognya sama sekali tidak menghibur",0,negation
+"secara keseluruhan, dialognya payah dan tidak menarik",0,order
+"secara keseluruhan, akting pemainnya benar-benar mengecewakan banget",0,plain
+"secara keseluruhan, endingnya benar-benar mengecewakan",0,plain
+efek visualnya benar-benar seru,1,plain
+"jujur, filmnya benar-benar keren banget",1,plain
+"wah, filmnya cukup garing banget",0,plain
+filmnya mengesankan dan tidak lambat,1,order
+"wah, endingnya lucu",1,plain
+"wah, efek visualnya mengecewakan dan tidak keren",0,order
+musiknya tidak membosankan,1,negation
+"secara keseluruhan, filmnya cukup garing banget",0,plain
+"menurut saya, film ini cukup payah",0,plain
+"wah, efek visualnya benar-benar payah banget",0,plain
+"menurut saya, akting pemainnya sama sekali tidak hambar",1,negation
+"menurut saya, musiknya sangat seru",1,plain
+ceritanya tidak memuaskan,0,negation
+"menurut saya, dialognya berantakan dan tidak memuaskan",0,order
+"jujur, endingnya tidak payah",1,negation
+"jujur, alur ceritanya seru dan tidak garing",1,order
+"wah, musiknya tidak payah",1,negation
+"wah, ceritanya tidak menarik",0,negation
+film ini tidak mengesankan,0,negation
+"wah, musiknya benar-benar seru",1,plain
+ceritanya garing dan tidak menyentuh,0,order
+"secara keseluruhan, alur ceritanya menarik",1,plain
+"menurut saya, efek visualnya sama sekali tidak bagus",0,negation
+ceritanya payah dan tidak lucu,0,order
+"jujur, musiknya menarik",1,plain
+"secara keseluruhan, ceritanya sangat menyentuh",1,plain
+"secara keseluruhan, filmnya cukup seru",1,plain
+endingnya berantakan dan tidak menarik,0,order
+"menurut saya, efek visualnya benar-benar jelek",0,plain
+"wah, film ini keren sih",1,plain
+"jujur, musiknya cukup memuaskan",1,plain
+"wah, endingnya hambar dan tidak memuaskan",0,order
+"jujur, filmnya benar-benar menarik banget",1,plain
+"wah, efek visualnya sama sekali tidak buruk",1,negation
+"secara keseluruhan, dialognya sama sekali tidak keren",0,negation
+"menurut saya, film ini mengesankan dan tidak hambar",1,order
+"jujur, dialognya benar-benar memuaskan",1,plain
+ceritanya buruk dan tidak keren,0,order
+"wah, endingnya mengesankan dan tidak berantakan",1,order
+"wah, efek visualnya cukup menghibur",1,plain
+"secara keseluruhan, film ini jelek dan tidak memuaskan",0,order
+"wah, film ini sangat hambar sih",0,plain
+"menurut saya, akting pemainnya sama sekali tidak jelek",1,negation
+"menurut saya, alur ceritanya membosankan",0,plain
+"wah, musiknya sama sekali tidak hambar",1,negation
+"secara keseluruhan, musiknya benar-benar mengecewakan",0,plain
+"jujur, musiknya cukup berantakan",0,plain
+"menurut saya, filmnya keren dan tidak membosankan",1,order
+"secara keseluruhan, ceritanya cukup membosankan",0,plain
+filmnya lambat dan tidak menghibur,0,order
+musiknya berantakan dan tidak seru,0,order
+"menurut saya, akting pemainnya sama sekali tidak menarik",0,negation
+"jujur, film ini tidak mengesankan",0,negation
+"wah, endingnya bagus dan tidak buruk",1,order
+film ini bagus dan tidak garing,1,order
+"jujur, alur ceritanya payah dan tidak menarik",0,order
+"secara keseluruhan, dialognya sama sekali tidak seru",0,negation
+"menurut saya, alur ceritanya sama sekali tidak menghibur",0,negation
+"secara keseluruhan, endingnya tidak mengecewakan",1,negation
+"menurut saya, alur ceritanya sama sekali tidak lambat",1,negation
+"secara keseluruhan, alur ceritanya garing dan tidak lucu",0,order
+filmnya tidak menyentuh,0,negation
+"menurut saya, filmnya menghibur dan tidak hambar",1,order
+"secara keseluruhan, endingnya sama sekali tidak berantakan",1,negation
+"jujur, alur ceritanya seru dan tidak lambat",1,order
+akting pemainnya tidak payah,1,negation
+"jujur, alur ceritanya bagus dan tidak payah",1,order
+musiknya buruk banget,0,plain
+"wah, alur ceritanya sangat hambar",0,plain
+akting pemainnya cukup berantakan,0,plain
+"secara keseluruhan, dialognya menyentuh dan tidak hambar",1,order
+"menurut saya, filmnya benar-benar seru sih",1,plain
+musiknya memuaskan dan tidak buruk,1,order
+"jujur, ceritanya tidak menyentuh",0,negation
+"secara keseluruhan, ceritanya sama sekali tidak mengecewakan",1,negation
+"menurut saya, ceritanya tidak menghibur",0,negation
+"secara keseluruhan, endingnya tidak seru",0,negation
+dialognya lucu,1,plain
+"secara keseluruhan, efek visualnya menarik dan tidak mengecewakan",1,order
+akting pemainnya sangat membosankan sih,0,plain
+"menurut saya, alur ceritanya buruk dan tidak keren",0,order
+"wah, film ini lucu",1,plain
+"wah, efek visualnya hambar dan tidak menyentuh",0,order
+"wah, alur ceritanya benar-benar berantakan banget",0,plain
+"menurut saya, alur ceritanya cukup berantakan",0,plain
+"jujur, efek visualnya seru dan tidak mengecewakan",1,order
+"jujur, alur ceritanya garing dan tidak bagus",0,order
+"menurut saya, filmnya jelek dan tidak menyentuh",0,order
+"jujur, ceritanya sama sekali tidak menarik",0,negation
+"secara keseluruhan, efek visualnya sangat keren",1,plain
+"menurut saya, musiknya buruk dan tidak memuaskan",0,order
+"secara keseluruhan, akting pemainnya benar-benar payah banget",0,plain
+"menurut saya, ceritanya tidak payah",1,negation
+"wah, ceritanya tidak memuaskan",0,negation
+endingnya memuaskan dan tidak mengecewakan,1,order
+"menurut saya, endingnya tidak menyentuh",0,negation
+"jujur, akting pemainnya tidak bagus",0,negation
+"jujur, dialognya sama sekali tidak keren",0,negation
+akting pemainnya keren dan tidak membosankan,1,order
+"jujur, endingnya menghibur",1,plain
+"secara keseluruhan, akting pemainnya payah dan tidak bagus",0,order
+efek visualnya sama sekali tidak lucu,0,negation
+"secara keseluruhan, alur ceritanya lucu dan tidak mengecewakan",1,order
+"wah, ceritanya sangat menarik",1,plain
+"jujur, endingnya sama sekali tidak berantakan",1,negation
+"menurut saya, endingnya tidak memuaskan",0,negation
+"secara keseluruhan, film ini benar-benar mengecewakan banget",0,plain
+"wah, filmnya tidak mengecewakan",1,negation
+"wah, endingnya sama sekali tidak membosankan",1,negation
+"menurut saya, dialognya sangat buruk sih",0,plain
+endingnya sangat menyentuh,1,plain
+"menurut saya, filmnya sama sekali tidak bagus",0,negation
+"menurut saya, musiknya sama sekali tidak berantakan",1,negation
+"menurut saya, endingnya mengecewakan dan tidak mengesankan",0,order
+"menurut saya, filmnya cukup seru",1,plain
+filmnya seru dan tidak garing,1,order
+"wah, dialognya mengesankan dan tidak membosankan",1,order
+"menurut saya, dialognya tidak berantakan",1,negation
+ceritanya cukup hambar,0,plain
+"menurut saya, alur ceritanya tidak menyentuh",0,negation
+"jujur, ceritanya jelek",0,plain
+efek visualnya menarik sih,1,plain
+"menurut saya, filmnya sangat lucu",1,plain
+"wah, efek visualnya sangat buruk",0,plain
+"menurut saya, ceritanya cukup menghibur",1,plain
+"wah, filmnya menarik dan tidak payah",1,order
+"wah, musiknya sama sekali tidak mengecewakan",1,negation
+"menurut saya, musiknya memuaskan dan tidak jelek",1,order
+alur ceritanya mengesankan dan tidak membosankan,1,order
+"menurut saya, filmnya sama sekali tidak berantakan",1,negation
+ceritanya keren dan tidak mengecewakan,1,order
+"menurut saya, endingnya tidak lambat",1,negation
+"wah, dialognya sangat mengesankan banget",1,plain
+"menurut saya, endingnya seru dan tidak mengecewakan",1,order
+"jujur, musiknya benar-benar menghibur",1,plain
+"jujur, filmnya sangat lucu",1,plain
+endingnya seru dan tidak hambar,1,order
+"jujur, endingnya hambar dan tidak memuaskan",0,order
+"wah, efek visualnya sangat berantakan sih",0,plain
+"jujur, akting pemainnya tidak jelek",1,negation
+filmnya sama sekali tidak keren,0,negation
+"jujur, filmnya mengesankan sih",1,plain
+"secara keseluruhan, ceritanya seru dan tidak berantakan",1,order
+"wah, endingnya garing dan tidak seru",0,order
+"wah, musiknya menarik dan tidak hambar",1,order
+"jujur, film ini buruk",0,plain
+ceritanya sama sekali tidak memuaskan,0,negation
+"wah, dialognya tidak keren",0,negation
+"secara keseluruhan, akting pemainnya cukup berantakan",0,plain
+"wah, efek visualnya sama sekali tidak menghibur",0,negation
+"wah, ceritanya tidak berantakan",1,negation
+"menurut saya, efek visualnya sama sekali tidak buruk",1,negation
+filmnya membosankan dan tidak seru,0,order
+"jujur, efek visualnya berantakan dan tidak memuaskan",0,order
+efek visualnya seru dan tidak buruk,1,order
+musiknya menghibur dan tidak jelek,1,order
+film ini sama sekali tidak mengecewakan,1,negation
+"wah, filmnya tidak menyentuh",0,negation
+"menurut saya, alur ceritanya sangat garing",0,plain
+"jujur, dialognya cukup berantakan",0,plain
+"secara keseluruhan, ceritanya sangat garing",0,plain
+"wah, efek visualnya berantakan dan tidak menghibur",0,order
+"menurut saya, alur ceritanya cukup memuaskan",1,plain
+"menurut saya, akting pemainnya cukup menyentuh",1,plain
+"wah, akting pemainnya memuaskan sih",1,plain
+"menurut saya, ceritanya sama sekali tidak menghibur",0,negation
+"wah, akting pemainnya tidak mengecewakan",1,negation
+dialognya lucu dan tidak berantakan,1,order
+"wah, endingnya keren dan tidak hambar",1,order
+"secara keseluruhan, musiknya sangat jelek",0,plain
+"jujur, dialognya sangat mengecewakan sih",0,plain
+"jujur, dialognya sama sekali tidak mengecewakan",1,negation
+"menurut saya, alur ceritanya bagus dan tidak jelek",1,order
+dialognya tidak mengecewakan,1,negation
+"menurut saya, endingnya tidak payah",1,negation
+"jujur, dialognya sama sekali tidak garing",1,negation
+"secara keseluruhan, ceritanya sama sekali tidak memuaskan",0,negation
+"jujur, filmnya keren banget",1,plain
+"menurut saya, ceritanya menyentuh dan tidak payah",1,order
+"menurut saya, dialognya hambar dan tidak menghibur",0,order
+akting pemainnya keren dan tidak garing,1,order
+"secara keseluruhan, endingnya mengesankan dan tidak lambat",1,order
+musiknya sangat lambat,0,plain
+endingnya sama sekali tidak seru,0,negation
+"wah, dialognya benar-benar bagus banget",1,plain
+"menurut saya, efek visualnya membosankan dan tidak seru",0,order
+"menurut saya, ceritanya cukup menyentuh",1,plain
+"menurut saya, ceritanya menyentuh dan tidak buruk",1,order
+"menurut saya, film ini sama sekali tidak bagus",0,negation
+"secara keseluruhan, ceritanya sangat payah",0,plain
+"jujur, musiknya hambar dan tidak memuaskan",0,order
+"wah, dialognya tidak bagus",0,negation
+"menurut saya, dialognya bagus dan tidak jelek",1,order
+"menurut saya, musiknya sama sekali tidak lambat",1,negation
+alur ceritanya sama sekali tidak payah,1,negation
+musiknya mengesankan dan tidak buruk,1,order
+"wah, akting pemainnya sama sekali tidak membosankan",1,negation
+"jujur, alur ceritanya mengesankan dan tidak mengecewakan",1,order
+"wah, filmnya memuaskan dan tidak membosankan",1,order
+"menurut saya, film ini benar-benar lucu",1,plain
+"secara keseluruhan, filmnya menghibur dan tidak hambar",1,order
+"wah, ceritanya memuaskan",1,plain
+"jujur, dialognya sama sekali tidak lucu",0,negation
+"jujur, musiknya cukup mengesankan",1,plain
+"menurut saya, alur ceritanya berantakan",0,plain
+"menurut saya, filmnya sama sekali tidak garing",1,negation
+"jujur, dialognya cukup payah banget",0,plain
+"menurut saya, musiknya sama sekali tidak memuaskan",0,negation
+"wah, film ini payah sih",0,plain
+akting pemainnya payah dan tidak menyentuh,0,order
+film ini menghibur dan tidak garing,1,order
+musiknya sama sekali tidak memuaskan,0,negation
+"jujur, alur ceritanya sama sekali tidak mengesankan",0,negation
+"wah, musiknya garing dan tidak memuaskan",0,order
+"menurut saya, akting pemainnya payah dan tidak menarik",0,order
+"jujur, ceritanya payah dan tidak mengesankan",0,order
+"jujur, film ini membosankan banget",0,plain
+"secara keseluruhan, ceritanya menarik dan tidak lambat",1,order
+"menurut saya, efek visualnya sama sekali tidak menarik",0,negation
+"jujur, endingnya tidak mengecewakan",1,negation
+"secara keseluruhan, dialognya cukup berantakan",0,plain
+"menurut saya, akting pemainnya memuaskan",1,plain
+efek visualnya garing,0,plain
+"secara keseluruhan, alur ceritanya sangat garing",0,plain
+"jujur, musiknya hambar dan tidak menarik",0,order
+"menurut saya, efek visualnya cukup membosankan sih",0,plain
+dialognya hambar dan tidak menarik,0,order
+"menurut saya, alur ceritanya tidak mengecewakan",1,negation
+dialognya sama sekali tidak payah,1,negation
+"menurut saya, efek visualnya sama sekali tidak memuaskan",0,negation
+"wah, filmnya sama sekali tidak memuaskan",0,negation
+alur ceritanya benar-benar seru banget,1,plain
+"wah, ceritanya buruk dan tidak memuaskan",0,order
+filmnya sangat seru sih,1,plain
+"secara keseluruhan, film ini sama sekali tidak jelek",1,negation
+"wah, film ini hambar dan tidak menghibur",0,order
+"menurut saya, ceritanya benar-benar hambar",0,plain
+"menurut saya, endingnya benar-benar mengesankan banget",1,plain
+"jujur, dialognya sangat mengecewakan",0,plain
+"secara keseluruhan, film ini berantakan dan tidak menyentuh",0,order
+dialognya seru dan tidak mengecewakan,1,order
+"wah, musiknya sama sekali tidak buruk",1,negation
+"jujur, musiknya cukup mengecewakan",0,plain
+"jujur, endingnya benar-benar memuaskan",1,plain
+"wah, dialognya menyentuh",1,plain
+"wah, dialognya sama sekali tidak menarik",0,negation
+"menurut saya, filmnya tidak buruk",1,negation
+alur ceritanya sama sekali tidak buruk,1,negation
+"wah, filmnya sangat berantakan",0,plain
+endingnya sama sekali tidak memuaskan,0,negation
+"jujur, efek visualnya payah dan tidak bagus",0,order
+"secara keseluruhan, ceritanya cukup mengecewakan sih",0,plain
+"secara keseluruhan, ceritanya tidak seru",0,negation
+musiknya mengesankan dan tidak jelek,1,order
+"wah, film ini membosankan dan tidak mengesankan",0,order
+"menurut saya, akting pemainnya tidak membosankan",1,negation
+"secara keseluruhan, film ini memuaskan dan tidak membosankan",1,order
+film ini tidak payah,1,negation
+"menurut saya, endingnya sama sekali tidak payah",1,negation
+"menurut saya, filmnya mengecewakan dan tidak keren",0,order
+"secara keseluruhan, filmnya benar-benar bagus",1,plain
+"secara keseluruhan, alur ceritanya sangat berantakan sih",0,plain
+"menurut saya, musiknya menyentuh dan tidak membosankan",1,order
+efek visualnya payah banget,0,plain
+"wah, akting pemainnya tidak lucu",0,negation
+"jujur, musiknya berantakan dan tidak lucu",0,order
+efek visualnya lambat dan tidak lucu,0,order
+"menurut saya, akting pemainnya benar-benar menghibur",1,plain
+"menurut saya, akting pemainnya seru dan tidak payah",1,order
+"secara keseluruhan, dialognya sama sekali tidak menarik",0,negation
+"jujur, alur ceritanya bagus dan tidak buruk",1,order
+"wah, film ini payah dan tidak menyentuh",0,order
+"menurut saya, efek visualnya tidak menyentuh",0,negation
+"wah, dialognya sama sekali tidak payah",1,negation
+"secara keseluruhan, endingnya tidak berantakan",1,negation
+ceritanya lucu dan tidak berantakan,1,order
+"wah, film ini sangat menghibur sih",1,plain
+"secara keseluruhan, endingnya membosankan dan tidak menarik",0,order
+filmnya sama sekali tidak membosankan,1,negation
+"wah, efek visualnya sama sekali tidak seru",0,negation
+efek visualnya tidak mengesankan,0,negation
+"secara keseluruhan, dialognya garing dan tidak lucu",0,order
+"secara keseluruhan, alur ceritanya tidak jelek",1,negation
+endingnya sama sekali tidak hambar,1,negation
+"wah, endingnya cukup mengecewakan sih",0,plain
+"jujur, filmnya lambat dan tidak seru",0,order
+"secara keseluruhan, filmnya sama sekali tidak menghibur",0,negation
+ceritanya sangat menghibur banget,1,plain
+"jujur, efek visualnya hambar dan tidak menarik",0,order
+"secara keseluruhan, alur ceritanya cukup jelek sih",0,plain
+"jujur, efek visualnya bagus dan tidak buruk",1,order
+"wah, alur ceritanya bagus dan tidak payah",1,order
+"jujur, musiknya sangat keren",1,plain
+"secara keseluruhan, musiknya tidak berantakan",1,negation
+"secara keseluruhan, filmnya menarik dan tidak hambar",1,order
+"wah, endingnya membosankan dan tidak menarik",0,order
+"wah, efek visualnya menarik dan tidak lambat",1,order
+"secara keseluruhan, dialognya tidak mengesankan",0,negation
+"jujur, endingnya jelek dan tidak bagus",0,order
+"secara keseluruhan, efek visualnya keren banget",1,plain
+"menurut saya, dialognya buruk dan tidak menghibur",0,order
+"secara keseluruhan, ceritanya mengesankan dan tidak hambar",1,order
+"jujur, dialognya benar-benar keren",1,plain
+"menurut saya, efek visualnya sama sekali tidak hambar",1,negation
+"secara keseluruhan, endingnya benar-benar garing",0,plain
+"menurut saya, musiknya cukup membosankan banget",0,plain
+"secara keseluruhan, musiknya tidak jelek",1,negation
+"menurut saya, musiknya menghibur dan tidak jelek",1,order
+"secara keseluruhan, film ini benar-benar keren sih",1,plain
+"jujur, filmnya mengecewakan dan tidak menghibur",0,order
+"jujur, filmnya sangat menyentuh",1,plain
+"secara keseluruhan, efek visualnya sama sekali tidak jelek",1,negation
+"wah, alur ceritanya sangat buruk sih",0,plain
+endingnya benar-benar mengesankan,1,plain
+"menurut saya, efek visualnya sama sekali tidak mengesankan",0,negation
+alur ceritanya menarik dan tidak garing,1,order
+"jujur, akting pemainnya membosankan dan tidak menghibur",0,order
+alur ceritanya sangat jelek sih,0,plain
+"wah, efek visualnya sama sekali tidak mengesankan",0,negation
+"wah, filmnya hambar dan tidak keren",0,order
+"menurut saya, efek visualnya payah dan tidak mengesankan",0,order
+"menurut saya, ceritanya menyentuh dan tidak membosankan",1,order
+"secara keseluruhan, filmnya hambar dan tidak menyentuh",0,order
+"jujur, film ini menghibur dan tidak mengecewakan",1,order
+"menurut saya, ceritanya sama sekali tidak buruk",1,negation
+"secara keseluruhan, filmnya benar-benar buruk banget",0,plain
+"secara keseluruhan, film ini membosankan dan tidak memuaskan",0,order
+"wah, musiknya bagus",1,plain
+"wah, filmnya tidak memuaskan",0,negation
+film ini payah dan tidak menarik,0,order
+akting pemainnya cukup keren sih,1,plain
+"secara keseluruhan, endingnya sama sekali tidak memuaskan",0,negation
+"wah, filmnya menarik dan tidak berantakan",1,order
+"jujur, musiknya jelek dan tidak memuaskan",0,order
+"jujur, alur ceritanya buruk dan tidak lucu",0,order
+filmnya tidak menghibur,0,negation
+"wah, endingnya tidak lambat",1,negation
+"secara keseluruhan, dialognya tidak lambat",1,negation
+"secara keseluruhan, endingnya sama sekali tidak seru",0,negation
+filmnya payah dan tidak menarik,0,order
+"wah, efek visualnya menghibur dan tidak hambar",1,order
+"secara keseluruhan, alur ceritanya lambat dan tidak menyentuh",0,order
+"jujur, alur ceritanya keren dan tidak membosankan",1,order
+"wah, dialognya benar-benar buruk",0,plain
+"menurut saya, dialognya tidak lucu",0,negation
+"jujur, endingnya sama sekali tidak keren",0,negation
+"menurut saya, akting pemainnya hambar",0,plain
+"wah, musiknya garing dan tidak mengesankan",0,order
+"jujur, filmnya sama sekali tidak menyentuh",0,negation
+"wah, ceritanya benar-benar menyentuh",1,plain
+film ini cukup membosankan banget,0,plain
+"secara keseluruhan, akting pemainnya sama sekali tidak membosankan",1,negation
+"wah, endingnya seru dan tidak garing",1,order
+"wah, filmnya menyentuh dan tidak payah",1,order
+"jujur, dialognya sama sekali tidak payah",1,negation
+"wah, alur ceritanya sama sekali tidak memuaskan",0,negation
+"wah, dialognya tidak mengecewakan",1,negation
+"menurut saya, efek visualnya lambat dan tidak menarik",0,order
+"jujur, alur ceritanya cukup lucu",1,plain
+"secara keseluruhan, ceritanya buruk",0,plain
+alur ceritanya memuaskan dan tidak lambat,1,order
+"menurut saya, endingnya payah dan tidak bagus",0,order
